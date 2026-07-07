@@ -20,4 +20,6 @@ Utilizado pelo seguinte motivo: Naturalmente já seria uma necessidade no jogo, 
 Travelling Salesman Problem:
 Utilizado no sistema do item personalizado de busca de objetivos no jogo
 
+Os scritps mencionados acima, foram anexados aqui no Git
+
 Link para o drive: https://drive.google.com/drive/folders/1v9lbgilE4iyuDxj3nJHmXIbkQa6L-YJB?usp=drive_link
